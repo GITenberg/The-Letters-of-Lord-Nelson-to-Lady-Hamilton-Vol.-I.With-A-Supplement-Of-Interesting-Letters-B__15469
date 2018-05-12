@@ -1,0 +1,35 @@
+_repo: The-Letters-of-Lord-Nelson-to-Lady-Hamilton-Vol.-I.With-A-Supplement-Of-Interesting-Letters-B__15469
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nelson, Horatio Nelson, Viscount
+    aliases:
+    - Nelson, Horacio, Viscount
+    - Nelson, Lord
+    birthdate: 1758
+    deathdate: 1805
+    gutenberg_agent_id: '6057'
+    url: http://www.gutenberg.org/2009/agents/6057
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Nelson,_1st_Viscount_Nelson
+description: ''
+gutenberg_bookshelf: Napoleonic(Bookshelf)
+gutenberg_issued: '2005-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15469'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Admirals --Great Britain -- Correspondence'
+- !lcsh 'Hamilton, Emma, Lady, 1761?-1815 -- Correspondence'
+- !lcsh 'Nelson, Horatio Nelson, Viscount, 1758-1805 -- Correspondence'
+title: 'The Letters of Lord Nelson to Lady Hamilton, Vol. I.
+
+  With A Supplement Of Interesting Letters By Distinguished Characters'
+url: http://www.gutenberg.org/ebooks/15469
